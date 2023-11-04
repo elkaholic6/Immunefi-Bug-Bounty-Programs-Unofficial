@@ -17,7 +17,7 @@ jobs:
       id: commit-info
       run: echo "::set-output name=commit_info::$(git log -1 --pretty=format:'%h %s - %an')"
 
-    - name: Send Discord Notification
+    - name: Send Discord Notification!
       env:
         DISCORD_WEBHOOK_URL: ${{ secrets.CENTOOR_BOT }}
       run: |
