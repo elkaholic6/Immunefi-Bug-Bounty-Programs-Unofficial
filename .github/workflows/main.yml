@@ -30,4 +30,4 @@ jobs:
                     \"color\": 15158332
                 }
             ]
-        }" $CENTOOR_BOT
+        }" $DISCORD_WEBHOOK_URL
