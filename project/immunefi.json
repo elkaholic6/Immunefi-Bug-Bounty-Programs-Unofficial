@@ -336,8 +336,8 @@
       "vault": {
         "address": "0xf4a8714f6ca5Bf232F10b308C693448738be0661",
         "chainId": 1,
-        "vaultBalance": 8084.6411858125,
-        "averageBalance": 8486.585,
+        "vaultBalance": 8085.8490176875,
+        "averageBalance": 8304.155333333334,
         "assets": [
           {
             "balance": "0.0136",
